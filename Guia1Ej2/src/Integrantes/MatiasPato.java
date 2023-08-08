@@ -10,5 +10,6 @@ package Integrantes;
  * @author Matias
  */
 public class MatiasPato {
+    int edad=23;
     
 }
