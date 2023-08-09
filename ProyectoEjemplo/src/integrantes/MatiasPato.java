@@ -32,5 +32,7 @@ public class MatiasPato {
     
     public void volar(){
         System.out.println("hola");
+        System.out.println("hay que entrenar el cerebro y pensar como programador");
+        
     }
 }
