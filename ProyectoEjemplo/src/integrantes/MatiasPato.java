@@ -30,7 +30,7 @@ public class MatiasPato {
     public String toString() {
         return "MatiasPato{" + "edad=" + edad + '}';
     }
-    
+    //pruebas 2
     public void volar(){
         System.out.println("hola");
         System.out.println("hay que entrenar el cerebro y pensar como programador");
