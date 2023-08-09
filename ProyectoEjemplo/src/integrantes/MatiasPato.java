@@ -34,5 +34,6 @@ public class MatiasPato {
         System.out.println("hola");
         System.out.println("hay que entrenar el cerebro y pensar como programador");
         System.out.println("hola");
+        System.out.println("Hola Hola Hola");
     }
 }
