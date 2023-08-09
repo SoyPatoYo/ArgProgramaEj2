@@ -30,5 +30,7 @@ public class MatiasPato {
         return "MatiasPato{" + "edad=" + edad + '}';
     }
     
-    
+    public void volar(){
+        System.out.println("hola");
+    }
 }
