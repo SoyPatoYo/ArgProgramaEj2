@@ -10,5 +10,5 @@ package integrantes;
  * @author Aldana Belauzaran
  */
 public class MatiaG {
-    
+    private int num ;
 }
