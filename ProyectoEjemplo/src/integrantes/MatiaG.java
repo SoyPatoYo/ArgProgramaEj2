@@ -11,4 +11,17 @@ package integrantes;
  */
 public class MatiaG {
     private int num ;
+
+    public MatiaG(int num) {
+        this.num = num;
+    }
+
+    public int getNum() {
+        return num;
+    }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
+    
 }
