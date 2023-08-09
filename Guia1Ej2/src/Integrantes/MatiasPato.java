@@ -10,6 +10,5 @@ package Integrantes;
  * @author Matias
  */
 public class MatiasPato {
-    private int edad=23;
-    private String nombre="Matias Pato";
+    
 }
