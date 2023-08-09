@@ -11,6 +11,7 @@ package integrantes;
  */
 public class MatiasPato {
     private int edad;
+    private int numero;
 
     public MatiasPato(int edad) {
         this.edad = edad;
