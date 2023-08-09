@@ -10,5 +10,19 @@ package integrantes;
  * @author Matias
  */
 public class MatiasPato {
+    private int edad;
+
+    public MatiasPato(int edad) {
+        this.edad = edad;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+    
     
 }
